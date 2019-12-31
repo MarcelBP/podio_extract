@@ -1,1 +1,1 @@
-http://35.198.104.139/test.html
+http://35.225.205.255/test.html
